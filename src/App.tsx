@@ -10,7 +10,7 @@ function App() {
         { id: 3, title:"ReactJs", isDone: false}
     ]
     const tasks2 = [
-        { id: 1, title:"Hello world", isDone: true},
+        { id: 1, title:"Hello world test", isDone: true},
         { id: 2, title:"I am happy", isDone: false},
         { id: 3, title:"Yo", isDone: false}
     ]
